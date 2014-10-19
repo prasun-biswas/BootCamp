@@ -1,0 +1,12 @@
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\bin\Debug\VarsityAdmission.exe.config
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\bin\Debug\VarsityAdmission.exe
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\bin\Debug\VarsityAdmission.pdb
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\obj\Debug\VarsityAdmission.csprojResolveAssemblyReference.cache
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\obj\Debug\VarsityAdmission.MainUI.resources
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\obj\Debug\VarsityAdmission.Properties.Resources.resources
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\obj\Debug\VarsityAdmission.ResultSheetUI.resources
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\obj\Debug\VarsityAdmission.csproj.GenerateResource.Cache
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\obj\Debug\VarsityAdmission.exe
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\obj\Debug\VarsityAdmission.pdb
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\obj\Debug\VarsityAdmission.CourseEnrollmentUI.resources
+c:\users\asheeeq\documents\visual studio 2013\Projects\VarsityAdmission\VarsityAdmission\obj\Debug\VarsityAdmission.ResultEntryUI.resources
