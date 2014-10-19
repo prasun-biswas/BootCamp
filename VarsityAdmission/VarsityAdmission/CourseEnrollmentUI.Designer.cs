@@ -37,7 +37,7 @@
             this.regNoCEUiTextBox = new System.Windows.Forms.TextBox();
             this.nameCEUiTextBox = new System.Windows.Forms.TextBox();
             this.emailCEUiTextBox = new System.Windows.Forms.TextBox();
-            this.CEUiComboBox = new System.Windows.Forms.ComboBox();
+            this.courseCEUiComboBox = new System.Windows.Forms.ComboBox();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.findCEUiTutton = new System.Windows.Forms.Button();
@@ -120,13 +120,13 @@
             this.emailCEUiTextBox.Size = new System.Drawing.Size(200, 20);
             this.emailCEUiTextBox.TabIndex = 8;
             // 
-            // CEUiComboBox
+            // courseCEUiComboBox
             // 
-            this.CEUiComboBox.FormattingEnabled = true;
-            this.CEUiComboBox.Location = new System.Drawing.Point(119, 99);
-            this.CEUiComboBox.Name = "CEUiComboBox";
-            this.CEUiComboBox.Size = new System.Drawing.Size(121, 21);
-            this.CEUiComboBox.TabIndex = 9;
+            this.courseCEUiComboBox.FormattingEnabled = true;
+            this.courseCEUiComboBox.Location = new System.Drawing.Point(119, 99);
+            this.courseCEUiComboBox.Name = "courseCEUiComboBox";
+            this.courseCEUiComboBox.Size = new System.Drawing.Size(121, 21);
+            this.courseCEUiComboBox.TabIndex = 9;
             // 
             // dateTimePicker1
             // 
@@ -172,7 +172,7 @@
             this.Controls.Add(this.findCEUiTutton);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.dateTimePicker1);
-            this.Controls.Add(this.CEUiComboBox);
+            this.Controls.Add(this.courseCEUiComboBox);
             this.Controls.Add(this.emailCEUiTextBox);
             this.Controls.Add(this.nameCEUiTextBox);
             this.Controls.Add(this.regNoCEUiTextBox);
@@ -201,7 +201,7 @@
         private System.Windows.Forms.TextBox regNoCEUiTextBox;
         private System.Windows.Forms.TextBox nameCEUiTextBox;
         private System.Windows.Forms.TextBox emailCEUiTextBox;
-        private System.Windows.Forms.ComboBox CEUiComboBox;
+        private System.Windows.Forms.ComboBox courseCEUiComboBox;
         private System.Windows.Forms.DateTimePicker dateTimePicker1;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button findCEUiTutton;
